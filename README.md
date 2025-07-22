@@ -11,7 +11,7 @@ Araçlar: KNIME Analytics Platform
 
 Yöntem:
 
-Verilerin hazırlanması (ETL süreci)
+Verilerin hazırlanması 
 
 Modelleme (sınıflandırma algoritmalarıyla)
 
