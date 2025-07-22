@@ -43,17 +43,17 @@ Platformlar: Python + KNIME (hem python hem KNIME üzerinde yapılmıştır)
 ✅ Classification: Meme Kanseri Hayatta Kalma Analizi
 Hedef: Kanser hastalarının hayatta kalma durumunun tahmini
 
-Algoritmalar: Logistic Regression, Decision Tree, Random Forest
+Algoritmalar: Logistic Regression, Decision Tree, Random Forest,Gaussian Naive Bayes, K-Nearest Neighbors, Support Vector Classifier
 
 📈 Regression: COVID-19 Ölümleri Tahmini
 Hedef: Vaka sayılarına göre ölüm tahmini yapmak
 
-Yöntem: Linear & Multiple Regression
+Yöntem: Linear Regression,Random Forest Regressor,KNN Regressor, XGBoost Regressor
 
 📚 Clustering: Öğrenci Profillerinin Gruplandırılması
 Hedef: Öğrencileri benzer özelliklerine göre gruplamak
 
-Algoritma: K-Means Clustering
+Algoritma: K-Means Clustering,DBSCAN
 
 🔗 Association Rule Learning: Öğrenci Performans Faktörleri
 Yöntem: Apriori algoritması
@@ -63,13 +63,12 @@ Amaç: Başarıyı etkileyen ortak faktörlerin keşfi
 ⚠️ Anomaly Detection: Öğrenci Devam Durumu
 Amaç: Düşük katılım veya anormal davranışları tespit etmek
 
-Yöntem: K-Means + Z-score anomali tespiti
+Yöntem: Local Outlier Factor, Isolation Forest  anomali tespiti
 
 ## 🧰 Kullanılan Teknolojiler
 Programlama Dilleri: Python, SQL
 
 Veri Analizi ve ETL: Pandas, NumPy, KNIME
-
 Görselleştirme: Matplotlib, Seaborn, Plotly, KNIME Charts
 
 Makine Öğrenmesi: Scikit-learn
