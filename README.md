@@ -1,8 +1,8 @@
 # Data Science & Machine Learning Projects
 Bu repo, staj sürecimde gerçekleştirdiğim veri analizi, ETL, veri görselleştirme ve makine öğrenmesi projelerini içermektedir. Tüm çalışmalar Python, SQL ve KNIME kullanılarak gerçekleştirilmiştir.
 
-### 📌 Proje İçeriği
-## 🔍 1. Su Kalitesi(Water Potability) Analizi (KNIME ile Sınıflandırma Projesi)
+###  Proje İçeriği
+## 1. Su Kalitesi(Water Potability) Analizi (KNIME ile Sınıflandırma Projesi)
 Amaç: Su örneklerinin kimyasal ve fiziksel özelliklerine göre içilebilir olup olmadığının belirlenmesi.
 
 Veri: 9 sayısal bağımsız değişken, 1 hedef değişken (Potability).
@@ -17,7 +17,7 @@ Modelleme (sınıflandırma algoritmalarıyla)
 
 Model değerlendirme (Confusion Matrix, Accuracy vs.)
 
-## 🛠️ 2. 100 ETL Sorgusu (SQL & Python Karşılaştırmalı)
+## 2. 100 ETL Sorgusu (SQL & Python Karşılaştırmalı)
 İçerik:
 
 100 farklı ETL sorusu
@@ -28,7 +28,7 @@ Her biri SQL ve Python (Pandas) ile çözüldü
 
 Araçlar: SQL, Python (Pandas, NumPy)
 
-## 📊 3. Veri Görselleştirme
+## 3. Veri Görselleştirme
 Amaç: 5 farklı grafik türünün hem Python hem de KNIME kullanılarak oluşturulması.
 
 Python Kütüphaneleri: Matplotlib, Seaborn, Plotly, Pandas
@@ -37,7 +37,7 @@ KNIME: Line Plot, Bar Chart, Pie Chart, Scatter Plot, Box Plot
 
 Ekstra: Her grafik farklı bir açık veri setiyle oluşturuldu, açıklamalarıyla birlikte belge haline getirildi.
 
-## 🤖 4. Makine Öğrenmesi Projeleri (5ML)
+## 4. Makine Öğrenmesi Projeleri (5ML)
 Platformlar: Python + KNIME (hem python hem KNIME üzerinde yapılmıştır)
 
 ✅ Classification: Meme Kanseri Hayatta Kalma Analizi
@@ -65,7 +65,7 @@ Amaç: Düşük katılım veya anormal davranışları tespit etmek
 
 Yöntem: Local Outlier Factor, Isolation Forest  anomali tespiti
 
-## 🧰 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 Programlama Dilleri: Python, SQL
 
 Veri Analizi ve ETL: Pandas, NumPy, KNIME
