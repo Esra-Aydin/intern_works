@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+    <entry key="dimensions" type="xint" value="35"/>
+    <entry key="ignoredColumns" type="xint" value="1"/>
+    <config key="clusterCoverage">
+        <entry key="array-size" type="xint" value="2"/>
+        <entry key="0" type="xint" value="4276"/>
+        <entry key="1" type="xint" value="5724"/>
+    </config>
+    <config key="kMeansCluster0">
+        <entry key="array-size" type="xint" value="34"/>
+        <entry key="0" type="xdouble" value="0.6209073900841908"/>
+        <entry key="1" type="xdouble" value="0.37277829747427504"/>
+        <entry key="2" type="xdouble" value="44.66955098222638"/>
+        <entry key="3" type="xdouble" value="62.41066417212348"/>
+        <entry key="4" type="xdouble" value="62.38014499532273"/>
+        <entry key="5" type="xdouble" value="55.889616463985035"/>
+        <entry key="6" type="xdouble" value="225.3933582787652"/>
+        <entry key="7" type="xdouble" value="0.6480355472404116"/>
+        <entry key="8" type="xdouble" value="2.3386342376052386E-4"/>
+        <entry key="9" type="xdouble" value="2.3386342376052386E-4"/>
+        <entry key="10" type="xdouble" value="0.3507951356407858"/>
+        <entry key="11" type="xdouble" value="7.015902712815715E-4"/>
+        <entry key="12" type="xdouble" value="0.26520112254443406"/>
+        <entry key="13" type="xdouble" value="0.18662301216089802"/>
+        <entry key="14" type="xdouble" value="0.28367633302151546"/>
+        <entry key="15" type="xdouble" value="0.1580916744621141"/>
+        <entry key="16" type="xdouble" value="0.10477081384471469"/>
+        <entry key="17" type="xdouble" value="2.3386342376052386E-4"/>
+        <entry key="18" type="xdouble" value="0.0"/>
+        <entry key="19" type="xdouble" value="4.677268475210477E-4"/>
+        <entry key="20" type="xdouble" value="4.677268475210477E-4"/>
+        <entry key="21" type="xdouble" value="2.3386342376052386E-4"/>
+        <entry key="22" type="xdouble" value="2.3386342376052386E-4"/>
+        <entry key="23" type="xdouble" value="0.2284845650140318"/>
+        <entry key="24" type="xdouble" value="0.20042095416276895"/>
+        <entry key="25" type="xdouble" value="0.08208606173994387"/>
+        <entry key="26" type="xdouble" value="0.18942937324602432"/>
+        <entry key="27" type="xdouble" value="0.1637043966323667"/>
+        <entry key="28" type="xdouble" value="0.13587464920486436"/>
+        <entry key="29" type="xdouble" value="0.6309635173058934"/>
+        <entry key="30" type="xdouble" value="0.0"/>
+        <entry key="31" type="xdouble" value="0.19761459307764265"/>
+        <entry key="32" type="xdouble" value="0.1569223573433115"/>
+        <entry key="33" type="xdouble" value="0.014499532273152479"/>
+    </config>
+    <config key="kMeansCluster1">
+        <entry key="array-size" type="xint" value="34"/>
+        <entry key="0" type="xdouble" value="0.663172606568833"/>
+        <entry key="1" type="xdouble" value="0.39902166317260657"/>
+        <entry key="2" type="xdouble" value="66.3970999301188"/>
+        <entry key="3" type="xdouble" value="75.89325646401119"/>
+        <entry key="4" type="xdouble" value="78.17024807826695"/>
+        <entry key="5" type="xdouble" value="73.66666666666667"/>
+        <entry key="6" type="xdouble" value="294.14552760307475"/>
+        <entry key="7" type="xdouble" value="0.3862683438155136"/>
+        <entry key="8" type="xdouble" value="8.735150244584207E-4"/>
+        <entry key="9" type="xdouble" value="0.0"/>
+        <entry key="10" type="xdouble" value="0.6116352201257862"/>
+        <entry key="11" type="xdouble" value="0.001222921034241789"/>
+        <entry key="12" type="xdouble" value="0.2501747030048917"/>
+        <entry key="13" type="xdouble" value="0.19234800838574423"/>
+        <entry key="14" type="xdouble" value="0.30241090146750527"/>
+        <entry key="15" type="xdouble" value="0.1455276030747729"/>
+        <entry key="16" type="xdouble" value="0.10726764500349406"/>
+        <entry key="17" type="xdouble" value="1.7470300489168413E-4"/>
+        <entry key="18" type="xdouble" value="5.241090146750524E-4"/>
+        <entry key="19" type="xdouble" value="6.988120195667365E-4"/>
+        <entry key="20" type="xdouble" value="3.4940600978336826E-4"/>
+        <entry key="21" type="xdouble" value="0.0"/>
+        <entry key="22" type="xdouble" value="5.241090146750524E-4"/>
+        <entry key="23" type="xdouble" value="0.23008385744234802"/>
+        <entry key="24" type="xdouble" value="0.19741439552760306"/>
+        <entry key="25" type="xdouble" value="0.06289308176100629"/>
+        <entry key="26" type="xdouble" value="0.19129979035639413"/>
+        <entry key="27" type="xdouble" value="0.18204053109713486"/>
+        <entry key="28" type="xdouble" value="0.13626834381551362"/>
+        <entry key="29" type="xdouble" value="5.241090146750524E-4"/>
+        <entry key="30" type="xdouble" value="0.15793151642208245"/>
+        <entry key="31" type="xdouble" value="0.8415443745632425"/>
+        <entry key="32" type="xdouble" value="0.0"/>
+        <entry key="33" type="xdouble" value="0.0"/>
+    </config>
+    <config key="FeatureNames">
+        <entry key="array-size" type="xint" value="35"/>
+        <entry key="0" type="xstring" value="lunch"/>
+        <entry key="1" type="xstring" value="test_preparation_course"/>
+        <entry key="2" type="xstring" value="math_score"/>
+        <entry key="3" type="xstring" value="reading_score"/>
+        <entry key="4" type="xstring" value="writing_score"/>
+        <entry key="5" type="xstring" value="science_score"/>
+        <entry key="6" type="xstring" value="total_score"/>
+        <entry key="7" type="xstring" value="male_gender"/>
+        <entry key="8" type="xstring" value="Boy_gender"/>
+        <entry key="9" type="xstring" value="\tmale_gender"/>
+        <entry key="10" type="xstring" value="female_gender"/>
+        <entry key="11" type="xstring" value="Girl_gender"/>
+        <entry key="12" type="xstring" value="group D_race_ethnicity"/>
+        <entry key="13" type="xstring" value="group B_race_ethnicity"/>
+        <entry key="14" type="xstring" value="group C_race_ethnicity"/>
+        <entry key="15" type="xstring" value="group E_race_ethnicity"/>
+        <entry key="16" type="xstring" value="group A_race_ethnicity"/>
+        <entry key="17" type="xstring" value="A_race_ethnicity"/>
+        <entry key="18" type="xstring" value="C_race_ethnicity"/>
+        <entry key="19" type="xstring" value="D_race_ethnicity"/>
+        <entry key="20" type="xstring" value="group C\n_race_ethnicity"/>
+        <entry key="21" type="xstring" value="B_race_ethnicity"/>
+        <entry key="22" type="xstring" value="E_race_ethnicity"/>
+        <entry key="23" type="xstring" value="some college_parental_level_of_education"/>
+        <entry key="24" type="xstring" value="high school_parental_level_of_education"/>
+        <entry key="25" type="xstring" value="master's degree_parental_level_of_education"/>
+        <entry key="26" type="xstring" value="associate's degree_parental_level_of_education"/>
+        <entry key="27" type="xstring" value="some high school_parental_level_of_education"/>
+        <entry key="28" type="xstring" value="bachelor's degree_parental_level_of_education"/>
+        <entry key="29" type="xstring" value="C_grade"/>
+        <entry key="30" type="xstring" value="A_grade"/>
+        <entry key="31" type="xstring" value="B_grade"/>
+        <entry key="32" type="xstring" value="D_grade"/>
+        <entry key="33" type="xstring" value="Fail_grade"/>
+        <entry key="34" type="xstring" isnull="true" value=""/>
+    </config>
+</config>
